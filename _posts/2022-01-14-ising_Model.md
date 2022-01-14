@@ -1,8 +1,8 @@
-----
+---
 layout: single 
 
-title: 포스팅연습(희생양: Ising_Model)
-----
+title: "포스팅연습(희생양: Ising_Model)"
+---
 
 
 
