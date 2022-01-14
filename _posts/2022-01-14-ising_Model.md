@@ -1,3 +1,9 @@
+# 포스팅 연습 겸 올려보는 진행중인 이징모델 코드
+
+블로그에 글 쓰는게 어색하다.. 그리고 어렵다..
+
+요즘 논문 준비 차원에서 코딩중인 2차원 이징모델 코드를 올려보면서 앞으로 진행 상황을 포스팅 해봐야겠다.
+
 ```python
 import numpy
 from matplotlib import pyplot as plt
@@ -51,24 +57,10 @@ class Ising2D:
                            Ising2D.lattice_2D[x][down])
         return e
 
-lat = Ising2D(100)
+lat = Ising2D(500)
 lat.show_lattice()
 
-
 ```
 
+이후에 올리는 포스팅에는 추가되는 코드만 올리면서 설명을 덧붙여 봐야겠다.
 
-    
-![png](output_0_0.png)
-    
-
-
-
-```python
-
-```
-
-
-```python
-
-```
