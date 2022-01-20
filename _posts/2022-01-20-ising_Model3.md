@@ -4,6 +4,8 @@ layout: single
 title: "Ising_Model-3"
 ----
 
+
+###### 전체 코드
 ```python
 import numpy
 from matplotlib import pyplot as plt
