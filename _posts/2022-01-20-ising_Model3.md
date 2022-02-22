@@ -1,8 +1,8 @@
-----
+---
 layout: single 
 
 title: "Ising_Model-3"
-----
+---
 
 
 ###### 전체 코드

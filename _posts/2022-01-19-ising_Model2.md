@@ -1,8 +1,8 @@
-----
+---
 layout: single 
 
 title: "Ising_Model-2"
-----
+---
 
 ###### Ising_Model 전체 코드
 
